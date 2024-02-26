@@ -2,7 +2,7 @@
   <h1 align="center" style="border-bottom: none"></b>Boggle</h1>
 
   <p align="center">
-    <b>Boggle</b> is the 1th and last exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
+    <b>Boggle</b> is the 11th and last exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
     <br>
     Boggle is a board game in which you need to find words in the English Dictionary.
     <br>
