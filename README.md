@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center" style="border-bottom: none"></b> - Boggle</h1>
+  <h1 align="center" style="border-bottom: none"></b>Boggle</h1>
 
   <p align="center">
     <b>Boggle</b> is the 1th and last exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
